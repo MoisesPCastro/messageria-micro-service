@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "bitcoin-cancle-create",
+            "script": "node",
+            "args": "build/server.js"
+        }
+    ]
+}
